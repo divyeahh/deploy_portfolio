@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/divya_portfolio/deploy_portfolio/static/css/main.b6b9c657.css",
+    "main.js": "/divya_portfolio/deploy_portfolio/static/js/main.301022d0.js",
+    "static/js/496.a1273f94.chunk.js": "/divya_portfolio/deploy_portfolio/static/js/496.a1273f94.chunk.js",
+    "index.html": "/divya_portfolio/deploy_portfolio/index.html",
+    "main.b6b9c657.css.map": "/divya_portfolio/deploy_portfolio/static/css/main.b6b9c657.css.map",
+    "main.301022d0.js.map": "/divya_portfolio/deploy_portfolio/static/js/main.301022d0.js.map",
+    "496.a1273f94.chunk.js.map": "/divya_portfolio/deploy_portfolio/static/js/496.a1273f94.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6b9c657.css",
+    "static/js/main.301022d0.js"
+  ]
+}
