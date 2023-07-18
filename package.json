@@ -1,7 +1,7 @@
 {
   "name": "new",
   "version": "0.1.0",
-  "homepage": "https://divyeahh.github.io/divya_portfolio",
+  "homepage": "http://divyeahh.github.io/divya_portfolio/deploy_portfolio",
   "private": true,
   "dependencies": {
     "bootstrap": "^5.3.0",
@@ -15,9 +15,9 @@
     "web-vitals": "^3.4.0"
   },
   "scripts": {
+    "start": "react-scripts start",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
