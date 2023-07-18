@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "description1": "I worked on a Content Management System (CMS), which is part of an OTT platform that integrates Webapp, android, ios and TV applications.",
+    "description2": "It is a Hotstar-like application consisting of live and video assets containing multiple features and modules.",
+    "description3": "CMS helps non-technical clients/admins to handle the platform from assets, users, advertising and settings to video encryption and transcoding.",
+    "description4": "Developing a CMS from scratch will always have an added advantage over WordPress/Drupal in terms of flexibility in adding new modules and features.",
+    "description5": "Working on the migration of CMS from Angular to React.js and brainstorming with the team to implement new features that work across the platform has given me enormous exposure to the technicalities of front-end development."
+  },
+  {
+    "id": 2,
+    "description1": "Working on the migration of CMS has allowed me to handle the Content Management System (CMS) of a News application.",
+    "description2": "It is a News application containing live, video and textual assets with many different features from an OTT Platform.",
+    "description3": "We are currently, ideating and gathering information and requirements for product development and working on the creation of user persona and role-based permissions.",
+    "description4": "CMS helps non-technical clients/admins to authorize the assets uploaded by the reporters and also authenticate new reporters.",
+    "description5": "It makes maintaining assets, users, and advertising and helps in storing information related to user persona."
+  }
+]
