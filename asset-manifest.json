@@ -1,15 +1,18 @@
 {
   "files": {
     "main.css": "/divya_portfolio/deploy_portfolio/static/css/main.b6b9c657.css",
-    "main.js": "/divya_portfolio/deploy_portfolio/static/js/main.301022d0.js",
-    "static/js/496.a1273f94.chunk.js": "/divya_portfolio/deploy_portfolio/static/js/496.a1273f94.chunk.js",
+    "main.js": "/divya_portfolio/deploy_portfolio/static/js/main.ce276bfd.js",
+    "static/js/496.2870daf0.chunk.js": "/divya_portfolio/deploy_portfolio/static/js/496.2870daf0.chunk.js",
+    "static/media/Screenshot (42).png": "/divya_portfolio/deploy_portfolio/static/media/Screenshot (42).b2892a953317e84d1d64.png",
+    "static/media/Screenshot (46).png": "/divya_portfolio/deploy_portfolio/static/media/Screenshot (46).929a5cd0706c78145b7f.png",
+    "static/media/imageDi.png": "/divya_portfolio/deploy_portfolio/static/media/imageDi.b84e48c3f0b0a224cbe2.png",
     "index.html": "/divya_portfolio/deploy_portfolio/index.html",
     "main.b6b9c657.css.map": "/divya_portfolio/deploy_portfolio/static/css/main.b6b9c657.css.map",
-    "main.301022d0.js.map": "/divya_portfolio/deploy_portfolio/static/js/main.301022d0.js.map",
-    "496.a1273f94.chunk.js.map": "/divya_portfolio/deploy_portfolio/static/js/496.a1273f94.chunk.js.map"
+    "main.ce276bfd.js.map": "/divya_portfolio/deploy_portfolio/static/js/main.ce276bfd.js.map",
+    "496.2870daf0.chunk.js.map": "/divya_portfolio/deploy_portfolio/static/js/496.2870daf0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b6b9c657.css",
-    "static/js/main.301022d0.js"
+    "static/js/main.ce276bfd.js"
   ]
 }
