@@ -1,6 +1,8 @@
 import React from "react";
 import { useNavigate } from "react-router-dom";
 import "./Projects.css";
+import project1 from "../assets/Screenshot (42).png";
+import project2 from "../assets/Screenshot (46).png";
 
 const Projects = () => {
   const navigate = useNavigate();
@@ -22,7 +24,7 @@ const Projects = () => {
                 navigate("/detailedProject", { state: { item: 1 } })
               }
             >
-              <img src="Screenshot (42).png" class="card-img-top" alt="..." />
+              <img src={project1} class="card-img-top" alt="..." />
               <div class="card-body">
                 <h5 class="card-text" style={{ color: "#c0c0c0" }}>
                   CMS - OTT Platform
@@ -52,7 +54,7 @@ const Projects = () => {
                 navigate("/detailedProject", { state: { item: 2 } })
               }
             >
-              <img src="Screenshot (46).png" class="card-img-top" alt="..." />
+              <img src={project2} class="card-img-top" alt="..." />
               <div class="card-body">
                 <h5 class="card-title" style={{ color: "#c0c0c0" }}>
                   News Application - (MVP)

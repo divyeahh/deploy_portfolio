@@ -1,6 +1,7 @@
 import React from "react";
 import ExperienceComponent from "./ExperienceComponent";
 import "./About.css";
+import profile from "../assets/imageDi.png";
 
 const About = () => {
   return (
@@ -18,7 +19,7 @@ const About = () => {
                 position: "absolute",
               }}
             >
-              <img src="imageDi.png" />
+              <img alt="profile" src={profile} />
             </div>
             <div
               className="col-6"

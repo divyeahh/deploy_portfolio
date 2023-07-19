@@ -1,6 +1,9 @@
-import React, { useState } from "react";
+import React, { useState, useEffect } from "react";
 import "./Home.css";
 import { Button, Modal } from "react-bootstrap";
+import { ToastContainer, toast } from "react-toastify";
+import { css } from "glamor";
+import "react-toastify/dist/ReactToastify.css";
 //#766a8a
 //rgb(160 154 169)
 
@@ -10,6 +13,7 @@ const Home = () => {
     setShow(true);
   };
   const handleClose = () => setShow(false);
+
   return (
     <div>
       <div className="container">

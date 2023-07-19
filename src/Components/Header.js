@@ -61,10 +61,9 @@ const Header = () => {
           </svg>
         ),
       });
+    } else {
+      toast.dismiss();
     }
-    // else {
-    //   toast.dismiss();
-    // }
   };
 
   useEffect(() => {
